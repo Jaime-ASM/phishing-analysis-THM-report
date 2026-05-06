@@ -1,2 +1,2 @@
 # phishing-analysis-THM-report
-Analysis oh phishing email scenarios in a simulated SOC environment
+Analysis of phishing email scenarios in a simulated SOC environment

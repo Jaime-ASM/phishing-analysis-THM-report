@@ -6,6 +6,9 @@ Analysis of phishing scenarios completed in a SOC simulation environment (TryHac
 ##Objective
 Identify phishing indicators and understand attacker techniques
 
+##Tools
+Splunk 
+
 ##Key Findings
 -Suspicious sender addresses
 -Malicious URLs
